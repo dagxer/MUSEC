@@ -1,0 +1,77 @@
+VagrantManager.py manages the variables for VM creation:
+    - It assumes that a folder is provided with all of the CSVs containing all of the employees and roles
+    - The name of the files are password_info_{boxNum}.csv for each box created 
+    - The columns of the CSV read are employee_ id,role, and password_hash
+    - The script writes the vars.yaml file read by the Vagrantfile to create the machines
+    - The # of files in the directory = the # of boxes created
+    - The # of rows in the csv = the # of users created (all machines have the same # of users for now)
+
+Start the API and tracker from the repository root with:
+
+python vagrant/authRecorder.py --host 0.0.0.0 --port 8001 --sleep-time 30
+
+0.0.0.0 listens on all network interfaces. Clients should connect to this
+machine's network address, and the host firewall must allow the selected port.
+The tracker uses `vagrant/generated_files/vars.yaml` and the default
+`users/usersInfo.csv`.
+
+The polling route is `GET /employees/newest`---
+config:
+  box: ubuntu/jammy64
+  box_version: 20241002.0.0
+  profile_path: ../../data/users/profiles
+  ip_addr: 0.0.0.0
+  ip_subnet_mask: 24
+
+  disk: 5
+  memory: 512
+  cpu: 1
+  gui: false
+
+  boxes: 
+    box1:
+      users:
+        - employee_id: E-1.097
+          password_hash: $1$SALT$s0zawMS.PfPIbEsnJJeKC.
+          group: "crane-operator"
+        - employee_id: E-1.016
+          password_hash: $1$SALT$dV71tBwEqGxg4l2AY5bTQ0
+          group: "crane-operator"
+        - employee_id: E-1.054
+          password_hash: $1$SALT$Qj/rJlxNw0.tXwYq.hA6D0
+          group: "crane-operator"
+        - employee_id: E-1.032
+          password_hash: $1$SALT$BKqxxquRwoh4m6ICcVlfg/
+          group: "crane-operator"
+        - employee_id: E-1.020
+          password_hash: $1$SALT$5or30L69czJk3.i1lpwVA1
+          group: "crane-operator"
+        - employee_id: E-1.049
+          password_hash: $1$SALT$1b6J0SjOBUhszZueivNuu/
+          group: "crane-operator"
+        - employee_id: E-1.005
+          password_hash: $1$SALT$ad4sWhU6PJnXmIz4JHGDH0
+          group: "crane-operator"
+        - employee_id: E-1.110
+          password_hash: $1$SALT$ln5NR7EHdgp9sxn9T9Rmy/
+          group: "security-operator"
+        - employee_id: E-1.127
+          password_hash: $1$SALT$eJsRQWiXYsnjLo5tkGFwa1
+          group: "security-operator"
+        - employee_id: E-1.131
+          password_hash: $1$SALT$FWuA/VpNb5goY9e.ppBf2/
+          group: "security-operator"
+        - employee_id: E-1.121
+          password_hash: $1$SALT$vHL/Sbt3/94zYrs8uch7F.
+          group: "security-operator"
+        - employee_id: E-1.181
+          password_hash: $1$SALT$kS5nQbxhZRssW5MJQBtNP0
+          group: "security-operator"
+        - employee_id: E-1.124
+          password_hash: $1$SALT$IT/AzYpoMMXko.rCKAe0d.
+          group: "security-operator"
+        - employee_id: E-1.100
+          password_hash: $1$SALT$hGqtgvSrYVkh7hG1krOED1
+          group: "security-operator"
+        - employee_id: E-1.136
+          password_hash: $1$SALT$TDgY7TSfwv1VTY79fWXBo.
