@@ -16,4 +16,14 @@ Possible Passwords:
 - silver
 - <CKj2m*1
 - password1
-- 
+
+
+Hashcat passwords:
+C:\Users\Noah\Desktop\hashcat-8.0.0\hashcat-8.0.0>hashcat.exe -m 500 --username box1_hashes.txt --show
+E-1.016:$1$SALT$dV71tBwEqGxg4l2AY5bTQ0:**joshua**
+E-1.054:$1$SALT$Qj/rJlxNw0.tXwYq.hA6D0:**cookie**
+E-1.032:$1$SALT$BKqxxquRwoh4m6ICcVlfg/:**12345678**
+E-1.020:$1$SALT$5or30L69czJk3.i1lpwVA1:**asdf123**
+E-1.100:$1$SALT$hGqtgvSrYVkh7hG1krOED1:**iloveyou1**
+
+C:\Users\Noah\Desktop\hashcat-8.0.0\hashcat-8.0.0>
