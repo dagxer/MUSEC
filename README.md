@@ -19,7 +19,7 @@ Possible Passwords:
 
 Hashcat results
 E-4.096:$1$SALT$PC.OQ9L/wCRQwWHsDlimZ1:**fishing**
-E-4.008:$1$SALT$vKzhvZv2ZmLv5DmeAOCoq1:**superman**
+~E-4.008:$1$SALT$vKzhvZv2ZmLv5DmeAOCoq1:**superman**~
 E-4.000:$1$SALT$148JrOK9p4V010LSaxaam0:**bond007**
 E-4.003:$1$SALT$fcg/m8F5qZbIeygtNgt8l.:**chester**
 E-4.036:$1$SALT$uHezb1yREMrf4TafsOkOH/:**silver**
@@ -58,3 +58,7 @@ E-4.274:$1$SALT$RdDDdC/k3MP535z13U5ie/:**target123**
 E-4.256:$1$SALT$TA1G8CU.l1OzG5jTbqWuK/:**123456s**
 E-4.214:$1$SALT$GpXHgB5bQRKnueYOqh7/R/:**pass123**
 E-4.348:$1$SALT$WKUZ41yHAxGu2hxdMytAm1:**123456abc**
+
+## E-4.348
+Password: 123456
+From emails: password is same as for web portal
