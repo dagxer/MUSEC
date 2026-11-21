@@ -61,4 +61,6 @@ E-4.348:$1$SALT$WKUZ41yHAxGu2hxdMytAm1:**123456abc**
 
 ## E-4.348
 Password: 123456
-From emails: password is same as for web portal
+- Name: Frank
+- From emails: password is same as for web portal
+- Saturday bbq plans found in BBQ from Rachel Morgan. Possibly affects security during hack?
