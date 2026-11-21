@@ -1,0 +1,4997 @@
+{
+  "interesting_files": [
+    {
+      "path": "/etc/E-4.100confidential.mbox",
+      "size": 372197,
+      "mode": "0o440",
+      "mtime": 1795055718
+    },
+    {
+      "path": "/etc/E-4.205confidential.mbox",
+      "size": 354584,
+      "mode": "0o440",
+      "mtime": 1795055721
+    },
+    {
+      "path": "/etc/E-4.314confidential.mbox",
+      "size": 370233,
+      "mode": "0o440",
+      "mtime": 1795055756
+    },
+    {
+      "path": "/etc/E-4.348confidential.mbox",
+      "size": 368275,
+      "mode": "0o440",
+      "mtime": 1795055749
+    },
+    {
+      "path": "/etc/nsswitch.conf",
+      "size": 510,
+      "mode": "0o644",
+      "mtime": 1794249462
+    },
+    {
+      "path": "/etc/E-4.134confidential.mbox",
+      "size": 369171,
+      "mode": "0o440",
+      "mtime": 1795055720
+    },
+    {
+      "path": "/etc/E-4.000confidential.mbox",
+      "size": 363765,
+      "mode": "0o440",
+      "mtime": 1795055704
+    },
+    {
+      "path": "/etc/deluser.conf",
+      "size": 604,
+      "mode": "0o644",
+      "mtime": 1537049659
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "size": 4436,
+      "mode": "0o644",
+      "mtime": 1608069716
+    },
+    {
+      "path": "/etc/E-4.210confidential.mbox",
+      "size": 350325,
+      "mode": "0o440",
+      "mtime": 1795055729
+    },
+    {
+      "path": "/etc/E-4.274confidential.mbox",
+      "size": 352653,
+      "mode": "0o440",
+      "mtime": 1795055741
+    },
+    {
+      "path": "/etc/xattr.conf",
+      "size": 681,
+      "mode": "0o644",
+      "mtime": 1648028509
+    },
+    {
+      "path": "/etc/E-4.257confidential.mbox",
+      "size": 351118,
+      "mode": "0o440",
+      "mtime": 1795055738
+    },
+    {
+      "path": "/etc/E-4.374confidential.mbox",
+      "size": 367057,
+      "mode": "0o440",
+      "mtime": 1795055751
+    },
+    {
+      "path": "/etc/E-4.256confidential.mbox",
+      "size": 351787,
+      "mode": "0o440",
+      "mtime": 1795055742
+    },
+    {
+      "path": "/etc/E-4.026confidential.mbox",
+      "size": 364861,
+      "mode": "0o440",
+      "mtime": 1795055709
+    },
+    {
+      "path": "/etc/E-4.357confidential.mbox",
+      "size": 363931,
+      "mode": "0o440",
+      "mtime": 1795055748
+    },
+    {
+      "path": "/etc/E-4.163confidential.mbox",
+      "size": 367378,
+      "mode": "0o440",
+      "mtime": 1795055714
+    },
+    {
+      "path": "/etc/overlayroot.local.conf",
+      "size": 112,
+      "mode": "0o644",
+      "mtime": 1794249592
+    },
+    {
+      "path": "/etc/mke2fs.conf",
+      "size": 744,
+      "mode": "0o644",
+      "mtime": 1641672156
+    },
+    {
+      "path": "/etc/E-4.111confidential.mbox",
+      "size": 366298,
+      "mode": "0o440",
+      "mtime": 1795055714
+    },
+    {
+      "path": "/etc/adduser.conf",
+      "size": 3028,
+      "mode": "0o644",
+      "mtime": 1794249451
+    },
+    {
+      "path": "/etc/E-4.116confidential.mbox",
+      "size": 372232,
+      "mode": "0o440",
+      "mtime": 1795055717
+    },
+    {
+      "path": "/etc/E-4.325confidential.mbox",
+      "size": 371012,
+      "mode": "0o440",
+      "mtime": 1795055743
+    },
+    {
+      "path": "/etc/pam.conf",
+      "size": 552,
+      "mode": "0o644",
+      "mtime": 1597191304
+    },
+    {
+      "path": "/etc/ucf.conf",
+      "size": 1260,
+      "mode": "0o644",
+      "mtime": 1592285873
+    },
+    {
+      "path": "/etc/E-4.385confidential.mbox",
+      "size": 371311,
+      "mode": "0o440",
+      "mtime": 1795055755
+    },
+    {
+      "path": "/etc/E-4.331confidential.mbox",
+      "size": 365997,
+      "mode": "0o440",
+      "mtime": 1795055758
+    },
+    {
+      "path": "/etc/E-4.157confidential.mbox",
+      "size": 367459,
+      "mode": "0o440",
+      "mtime": 1795055711
+    },
+    {
+      "path": "/etc/gai.conf",
+      "size": 2584,
+      "mode": "0o644",
+      "mtime": 1643866074
+    },
+    {
+      "path": "/etc/E-4.340confidential.mbox",
+      "size": 370878,
+      "mode": "0o440",
+      "mtime": 1795055748
+    },
+    {
+      "path": "/etc/E-4.241confidential.mbox",
+      "size": 352707,
+      "mode": "0o440",
+      "mtime": 1795055734
+    },
+    {
+      "path": "/etc/sudo_logsrvd.conf",
+      "size": 9390,
+      "mode": "0o644",
+      "mtime": 1644839285
+    },
+    {
+      "path": "/etc/E-4.278confidential.mbox",
+      "size": 351153,
+      "mode": "0o440",
+      "mtime": 1795055740
+    },
+    {
+      "path": "/etc/E-4.114confidential.mbox",
+      "size": 366093,
+      "mode": "0o440",
+      "mtime": 1795055715
+    },
+    {
+      "path": "/etc/e2scrub.conf",
+      "size": 685,
+      "mode": "0o644",
+      "mtime": 1641672156
+    },
+    {
+      "path": "/etc/nftables.conf",
+      "size": 228,
+      "mode": "0o755",
+      "mtime": 1648034938
+    },
+    {
+      "path": "/etc/logrotate.conf",
+      "size": 592,
+      "mode": "0o644",
+      "mtime": 1643038621
+    },
+    {
+      "path": "/etc/E-4.333confidential.mbox",
+      "size": 368260,
+      "mode": "0o440",
+      "mtime": 1795055745
+    },
+    {
+      "path": "/etc/E-4.273confidential.mbox",
+      "size": 352944,
+      "mode": "0o440",
+      "mtime": 1795055732
+    },
+    {
+      "path": "/etc/E-4.244confidential.mbox",
+      "size": 349144,
+      "mode": "0o440",
+      "mtime": 1795055736
+    },
+    {
+      "path": "/etc/E-4.120confidential.mbox",
+      "size": 369295,
+      "mode": "0o440",
+      "mtime": 1795055709
+    },
+    {
+      "path": "/etc/sudo.conf",
+      "size": 4573,
+      "mode": "0o644",
+      "mtime": 1644839285
+    },
+    {
+      "path": "/etc/E-4.375confidential.mbox",
+      "size": 365980,
+      "mode": "0o440",
+      "mtime": 1795055759
+    },
+    {
+      "path": "/etc/E-4.249confidential.mbox",
+      "size": 352399,
+      "mode": "0o440",
+      "mtime": 1795055722
+    },
+    {
+      "path": "/etc/E-4.295confidential.mbox",
+      "size": 351036,
+      "mode": "0o440",
+      "mtime": 1795055723
+    },
+    {
+      "path": "/etc/ca-certificates.conf",
+      "size": 7191,
+      "mode": "0o644",
+      "mtime": 1794249506
+    },
+    {
+      "path": "/etc/E-4.261confidential.mbox",
+      "size": 350722,
+      "mode": "0o440",
+      "mtime": 1795055733
+    },
+    {
+      "path": "/etc/E-4.396confidential.mbox",
+      "size": 370882,
+      "mode": "0o440",
+      "mtime": 1795055761
+    },
+    {
+      "path": "/etc/E-4.047confidential.mbox",
+      "size": 360430,
+      "mode": "0o440",
+      "mtime": 1795055708
+    },
+    {
+      "path": "/etc/E-4.127confidential.mbox",
+      "size": 366340,
+      "mode": "0o440",
+      "mtime": 1795055716
+    },
+    {
+      "path": "/etc/kernel-img.conf",
+      "size": 110,
+      "mode": "0o644",
+      "mtime": 1794249516
+    },
+    {
+      "path": "/etc/sysctl.conf",
+      "size": 2355,
+      "mode": "0o644",
+      "mtime": 1645788740
+    },
+    {
+      "path": "/etc/E-4.294confidential.mbox",
+      "size": 351797,
+      "mode": "0o440",
+      "mtime": 1795055737
+    },
+    {
+      "path": "/etc/E-4.248confidential.mbox",
+      "size": 353584,
+      "mode": "0o440",
+      "mtime": 1795055728
+    },
+    {
+      "path": "/etc/E-4.280confidential.mbox",
+      "size": 354491,
+      "mode": "0o440",
+      "mtime": 1795055737
+    },
+    {
+      "path": "/etc/E-4.245confidential.mbox",
+      "size": 347746,
+      "mode": "0o440",
+      "mtime": 1795055724
+    },
+    {
+      "path": "/etc/E-4.322confidential.mbox",
+      "size": 370845,
+      "mode": "0o440",
+      "mtime": 1795055754
+    },
+    {
+      "path": "/etc/E-4.356confidential.mbox",
+      "size": 367001,
+      "mode": "0o440",
+      "mtime": 1795055753
+    },
+    {
+      "path": "/etc/E-4.036confidential.mbox",
+      "size": 359681,
+      "mode": "0o440",
+      "mtime": 1795055706
+    },
+    {
+      "path": "/etc/.shadow.ithelp",
+      "size": 5612,
+      "mode": "0o444",
+      "mtime": 1795055761
+    },
+    {
+      "path": "/etc/E-4.308confidential.mbox",
+      "size": 365237,
+      "mode": "0o440",
+      "mtime": 1795055746
+    },
+    {
+      "path": "/etc/E-4.229confidential.mbox",
+      "size": 351789,
+      "mode": "0o440",
+      "mtime": 1795055727
+    },
+    {
+      "path": "/etc/E-4.177confidential.mbox",
+      "size": 369987,
+      "mode": "0o440",
+      "mtime": 1795055719
+    },
+    {
+      "path": "/etc/E-4.240confidential.mbox",
+      "size": 354235,
+      "mode": "0o440",
+      "mtime": 1795055739
+    },
+    {
+      "path": "/etc/E-4.388confidential.mbox",
+      "size": 367503,
+      "mode": "0o440",
+      "mtime": 1795055760
+    },
+    {
+      "path": "/etc/overlayroot.conf",
+      "size": 6920,
+      "mode": "0o644",
+      "mtime": 1597680058
+    },
+    {
+      "path": "/etc/debconf.conf",
+      "size": 2969,
+      "mode": "0o644",
+      "mtime": 1645368169
+    },
+    {
+      "path": "/etc/E-4.371confidential.mbox",
+      "size": 371582,
+      "mode": "0o440",
+      "mtime": 1795055745
+    },
+    {
+      "path": "/etc/fuse.conf",
+      "size": 694,
+      "mode": "0o644",
+      "mtime": 1648043594
+    },
+    {
+      "path": "/etc/E-4.236confidential.mbox",
+      "size": 349107,
+      "mode": "0o440",
+      "mtime": 1795055734
+    },
+    {
+      "path": "/etc/E-4.372confidential.mbox",
+      "size": 363711,
+      "mode": "0o440",
+      "mtime": 1795055756
+    },
+    {
+      "path": "/etc/E-4.003confidential.mbox",
+      "size": 364257,
+      "mode": "0o440",
+      "mtime": 1795055705
+    },
+    {
+      "path": "/etc/libaudit.conf",
+      "size": 191,
+      "mode": "0o644",
+      "mtime": 1647539440
+    },
+    {
+      "path": "/etc/E-4.338confidential.mbox",
+      "size": 365914,
+      "mode": "0o440",
+      "mtime": 1795055752
+    },
+    {
+      "path": "/etc/E-4.397confidential.mbox",
+      "size": 367089,
+      "mode": "0o440",
+      "mtime": 1795055744
+    },
+    {
+      "path": "/etc/E-4.004confidential.mbox",
+      "size": 363336,
+      "mode": "0o440",
+      "mtime": 1795055707
+    },
+    {
+      "path": "/etc/E-4.214confidential.mbox",
+      "size": 354340,
+      "mode": "0o440",
+      "mtime": 1795055742
+    },
+    {
+      "path": "/etc/E-4.209confidential.mbox",
+      "size": 353390,
+      "mode": "0o440",
+      "mtime": 1795055731
+    },
+    {
+      "path": "/etc/E-4.224confidential.mbox",
+      "size": 351868,
+      "mode": "0o440",
+      "mtime": 1795055725
+    },
+    {
+      "path": "/etc/E-4.383confidential.mbox",
+      "size": 369797,
+      "mode": "0o440",
+      "mtime": 1795055747
+    },
+    {
+      "path": "/etc/E-4.350confidential.mbox",
+      "size": 364053,
+      "mode": "0o440",
+      "mtime": 1795055757
+    },
+    {
+      "path": "/etc/E-4.158confidential.mbox",
+      "size": 371668,
+      "mode": "0o440",
+      "mtime": 1795055712
+    },
+    {
+      "path": "/etc/E-4.369confidential.mbox",
+      "size": 370006,
+      "mode": "0o440",
+      "mtime": 1795055759
+    },
+    {
+      "path": "/etc/E-4.345confidential.mbox",
+      "size": 370673,
+      "mode": "0o440",
+      "mtime": 1795055750
+    },
+    {
+      "path": "/etc/E-4.281confidential.mbox",
+      "size": 82425,
+      "mode": "0o440",
+      "mtime": 1795055720
+    },
+    {
+      "path": "/etc/E-4.106confidential.mbox",
+      "size": 370626,
+      "mode": "0o440",
+      "mtime": 1795055712
+    },
+    {
+      "path": "/etc/E-4.335confidential.mbox",
+      "size": 366318,
+      "mode": "0o440",
+      "mtime": 1795055753
+    },
+    {
+      "path": "/etc/E-4.183confidential.mbox",
+      "size": 366773,
+      "mode": "0o440",
+      "mtime": 1795055717
+    },
+    {
+      "path": "/etc/rsyslog.conf",
+      "size": 1382,
+      "mode": "0o644",
+      "mtime": 1640302499
+    },
+    {
+      "path": "/etc/E-4.078confidential.mbox",
+      "size": 363070,
+      "mode": "0o440",
+      "mtime": 1795055706
+    },
+    {
+      "path": "/etc/ld.so.conf",
+      "size": 34,
+      "mode": "0o644",
+      "mtime": 1608116695
+    },
+    {
+      "path": "/etc/E-4.293confidential.mbox",
+      "size": 351281,
+      "mode": "0o440",
+      "mtime": 1795055735
+    },
+    {
+      "path": "/etc/E-4.148confidential.mbox",
+      "size": 367175,
+      "mode": "0o440",
+      "mtime": 1795055713
+    },
+    {
+      "path": "/etc/E-4.297confidential.mbox",
+      "size": 350804,
+      "mode": "0o440",
+      "mtime": 1795055730
+    },
+    {
+      "path": "/etc/E-4.219confidential.mbox",
+      "size": 349648,
+      "mode": "0o440",
+      "mtime": 1795055726
+    },
+    {
+      "path": "/etc/E-4.352confidential.mbox",
+      "size": 364151,
+      "mode": "0o440",
+      "mtime": 1795055751
+    },
+    {
+      "path": "/etc/E-4.277confidential.mbox",
+      "size": 352078,
+      "mode": "0o440",
+      "mtime": 1795055723
+    },
+    {
+      "path": "/etc/E-4.008confidential.mbox",
+      "size": 359933,
+      "mode": "0o440",
+      "mtime": 1795055704
+    },
+    {
+      "path": "/etc/E-4.235confidential.mbox",
+      "size": 351715,
+      "mode": "0o440",
+      "mtime": 1795055740
+    },
+    {
+      "path": "/etc/E-4.254confidential.mbox",
+      "size": 350496,
+      "mode": "0o440",
+      "mtime": 1795055729
+    },
+    {
+      "path": "/etc/E-4.096confidential.mbox",
+      "size": 358704,
+      "mode": "0o440",
+      "mtime": 1795055703
+    },
+    {
+      "path": "/etc/multipath.conf",
+      "size": 41,
+      "mode": "0o644",
+      "mtime": 1698790919
+    },
+    {
+      "path": "/etc/usb_modeswitch.conf",
+      "size": 1523,
+      "mode": "0o644",
+      "mtime": 1648201985
+    },
+    {
+      "path": "/etc/host.conf",
+      "size": 92,
+      "mode": "0o644",
+      "mtime": 1634292365
+    },
+    {
+      "path": "/etc/E-4.270confidential.mbox",
+      "size": 350884,
+      "mode": "0o440",
+      "mtime": 1795055732
+    },
+    {
+      "path": "/etc/E-4.107confidential.mbox",
+      "size": 370694,
+      "mode": "0o440",
+      "mtime": 1795055710
+    },
+    {
+      "path": "/etc/E-4.206confidential.mbox",
+      "size": 350625,
+      "mode": "0o440",
+      "mtime": 1795055726
+    },
+    {
+      "path": "/etc/apport/crashdb.conf",
+      "size": 1216,
+      "mode": "0o644",
+      "mtime": 1720612581
+    },
+    {
+      "path": "/etc/vmware-tools/vgauth.conf",
+      "size": 113,
+      "mode": "0o644",
+      "mtime": 1789549022
+    },
+    {
+      "path": "/etc/vmware-tools/tools.conf",
+      "size": 479,
+      "mode": "0o644",
+      "mtime": 1789549022
+    },
+    {
+      "path": "/etc/security/access.conf",
+      "size": 4564,
+      "mode": "0o644",
+      "mtime": 1648086204
+    },
+    {
+      "path": "/etc/security/capability.conf",
+      "size": 1793,
+      "mode": "0o644",
+      "mtime": 1593571381
+    },
+    {
+      "path": "/etc/security/namespace.conf",
+      "size": 1637,
+      "mode": "0o644",
+      "mtime": 1648086204
+    },
+    {
+      "path": "/etc/security/time.conf",
+      "size": 2179,
+      "mode": "0o644",
+      "mtime": 1648086204
+    },
+    {
+      "path": "/etc/security/pam_env.conf",
+      "size": 2971,
+      "mode": "0o644",
+      "mtime": 1648086204
+    },
+    {
+      "path": "/etc/security/sepermit.conf",
+      "size": 419,
+      "mode": "0o644",
+      "mtime": 1648086204
+    },
+    {
+      "path": "/etc/security/limits.conf",
+      "size": 2161,
+      "mode": "0o644",
+      "mtime": 1648086204
+    },
+    {
+      "path": "/etc/security/group.conf",
+      "size": 3635,
+      "mode": "0o644",
+      "mtime": 1648086204
+    },
+    {
+      "path": "/etc/security/faillock.conf",
+      "size": 2234,
+      "mode": "0o644",
+      "mtime": 1648086204
+    },
+    {
+      "path": "/etc/dbus-1/system.d/com.ubuntu.SoftwareProperties.conf",
+      "size": 662,
+      "mode": "0o644",
+      "mtime": 1698149591
+    },
+    {
+      "path": "/etc/dbus-1/system.d/org.freedesktop.PackageKit.conf",
+      "size": 1331,
+      "mode": "0o644",
+      "mtime": 1776687894
+    },
+    {
+      "path": "/etc/polkit-1/localauthority.conf.d/50-localauthority.conf",
+      "size": 267,
+      "mode": "0o644",
+      "mtime": 1789149193
+    },
+    {
+      "path": "/etc/polkit-1/localauthority.conf.d/51-ubuntu-admin.conf",
+      "size": 65,
+      "mode": "0o644",
+      "mtime": 1789149193
+    },
+    {
+      "path": "/etc/tmpfiles.d/screen-cleanup.conf",
+      "size": 119,
+      "mode": "0o644",
+      "mtime": 1794249561
+    },
+    {
+      "path": "/etc/udev/udev.conf",
+      "size": 305,
+      "mode": "0o644",
+      "mtime": 1647002929
+    },
+    {
+      "path": "/etc/modprobe.d/blacklist-firewire.conf",
+      "size": 210,
+      "mode": "0o644",
+      "mtime": 1629191993
+    },
+    {
+      "path": "/etc/modprobe.d/blacklist-ath_pci.conf",
+      "size": 325,
+      "mode": "0o644",
+      "mtime": 1629191993
+    },
+    {
+      "path": "/etc/modprobe.d/blacklist.conf",
+      "size": 1518,
+      "mode": "0o644",
+      "mtime": 1629191993
+    },
+    {
+      "path": "/etc/modprobe.d/blacklist-framebuffer.conf",
+      "size": 677,
+      "mode": "0o644",
+      "mtime": 1629191993
+    },
+    {
+      "path": "/etc/modprobe.d/mdadm.conf",
+      "size": 379,
+      "mode": "0o644",
+      "mtime": 1681183379
+    },
+    {
+      "path": "/etc/modprobe.d/disable-algif_aead.conf",
+      "size": 264,
+      "mode": "0o644",
+      "mtime": 1777552362
+    },
+    {
+      "path": "/etc/modprobe.d/blacklist-rare-network.conf",
+      "size": 583,
+      "mode": "0o644",
+      "mtime": 1629191993
+    },
+    {
+      "path": "/etc/modprobe.d/iwlwifi.conf",
+      "size": 347,
+      "mode": "0o644",
+      "mtime": 1629191993
+    },
+    {
+      "path": "/etc/depmod.d/ubuntu.conf",
+      "size": 31,
+      "mode": "0o644",
+      "mtime": 1629191993
+    },
+    {
+      "path": "/etc/netplan/50-cloud-init.yaml",
+      "size": 161,
+      "mode": "0o600",
+      "mtime": 1795055563
+    },
+    {
+      "path": "/etc/initramfs-tools/update-initramfs.conf",
+      "size": 378,
+      "mode": "0o644",
+      "mtime": 1644350087
+    },
+    {
+      "path": "/etc/initramfs-tools/initramfs.conf",
+      "size": 1284,
+      "mode": "0o644",
+      "mtime": 1710849917
+    },
+    {
+      "path": "/etc/lvm/lvm.conf",
+      "size": 103434,
+      "mode": "0o644",
+      "mtime": 1732734269
+    },
+    {
+      "path": "/etc/lvm/lvmlocal.conf",
+      "size": 2301,
+      "mode": "0o644",
+      "mtime": 1732734269
+    },
+    {
+      "path": "/etc/sysctl.d/10-network-security.conf",
+      "size": 158,
+      "mode": "0o644",
+      "mtime": 1645790276
+    },
+    {
+      "path": "/etc/sysctl.d/10-zeropage.conf",
+      "size": 506,
+      "mode": "0o644",
+      "mtime": 1645790276
+    },
+    {
+      "path": "/etc/sysctl.d/10-ipv6-privacy.conf",
+      "size": 490,
+      "mode": "0o644",
+      "mtime": 1645790276
+    },
+    {
+      "path": "/etc/sysctl.d/99-cloudimg-ipv6.conf",
+      "size": 185,
+      "mode": "0o644",
+      "mtime": 1794249588
+    },
+    {
+      "path": "/etc/sysctl.d/10-ptrace.conf",
+      "size": 1292,
+      "mode": "0o644",
+      "mtime": 1645790276
+    },
+    {
+      "path": "/etc/sysctl.d/10-kernel-hardening.conf",
+      "size": 1229,
+      "mode": "0o644",
+      "mtime": 1645790276
+    },
+    {
+      "path": "/etc/sysctl.d/10-console-messages.conf",
+      "size": 77,
+      "mode": "0o644",
+      "mtime": 1645790276
+    },
+    {
+      "path": "/etc/sysctl.d/10-magic-sysrq.conf",
+      "size": 1184,
+      "mode": "0o644",
+      "mtime": 1645790276
+    },
+    {
+      "path": "/etc/ssh/sshd_config.d/60-cloudimg-settings.conf",
+      "size": 26,
+      "mode": "0o644",
+      "mtime": 1794249588
+    },
+    {
+      "path": "/etc/ssh/sshd_config.d/50-cloud-init.conf",
+      "size": 27,
+      "mode": "0o600",
+      "mtime": 1795055572
+    },
+    {
+      "path": "/etc/ubuntu-advantage/uaclient.conf",
+      "size": 63,
+      "mode": "0o644",
+      "mtime": 1788898365
+    },
+    {
+      "path": "/etc/apparmor/parser.conf",
+      "size": 2267,
+      "mode": "0o644",
+      "mtime": 1755260233
+    },
+    {
+      "path": "/etc/ldap/ldap.conf",
+      "size": 334,
+      "mode": "0o644",
+      "mtime": 1758721237
+    },
+    {
+      "path": "/etc/PackageKit/PackageKit.conf",
+      "size": 706,
+      "mode": "0o644",
+      "mtime": 1645103608
+    },
+    {
+      "path": "/etc/PackageKit/Vendor.conf",
+      "size": 1718,
+      "mode": "0o644",
+      "mtime": 1776687894
+    },
+    {
+      "path": "/etc/apt/apt.conf.d/20apt-esm-hook.conf",
+      "size": 392,
+      "mode": "0o644",
+      "mtime": 1788900313
+    },
+    {
+      "path": "/etc/apt/apt.conf.d/20snapd.conf",
+      "size": 127,
+      "mode": "0o644",
+      "mtime": 1788352752
+    },
+    {
+      "path": "/etc/lighttpd/conf-available/90-javascript-alias.conf",
+      "size": 56,
+      "mode": "0o644",
+      "mtime": 1375048138
+    },
+    {
+      "path": "/etc/needrestart/needrestart.conf",
+      "size": 6012,
+      "mode": "0o644",
+      "mtime": 1757531759
+    },
+    {
+      "path": "/etc/needrestart/notify.conf",
+      "size": 545,
+      "mode": "0o644",
+      "mtime": 1757531759
+    },
+    {
+      "path": "/etc/dhcp/dhclient.conf",
+      "size": 1735,
+      "mode": "0o644",
+      "mtime": 1628507768
+    },
+    {
+      "path": "/etc/ld.so.conf.d/libc.conf",
+      "size": 44,
+      "mode": "0o644",
+      "mtime": 1608116695
+    },
+    {
+      "path": "/etc/ld.so.conf.d/x86_64-linux-gnu.conf",
+      "size": 100,
+      "mode": "0o644",
+      "mtime": 1646362457
+    },
+    {
+      "path": "/etc/ld.so.conf.d/fakeroot-x86_64-linux-gnu.conf",
+      "size": 38,
+      "mode": "0o644",
+      "mtime": 1646512380
+    },
+    {
+      "path": "/etc/ufw/sysctl.conf",
+      "size": 1391,
+      "mode": "0o644",
+      "mtime": 1632028053
+    },
+    {
+      "path": "/etc/ufw/ufw.conf",
+      "size": 313,
+      "mode": "0o644",
+      "mtime": 1795055770
+    },
+    {
+      "path": "/etc/xdg/user-dirs.conf",
+      "size": 414,
+      "mode": "0o644",
+      "mtime": 1648202040
+    },
+    {
+      "path": "/etc/mdadm/mdadm.conf",
+      "size": 688,
+      "mode": "0o644",
+      "mtime": 1794249557
+    },
+    {
+      "path": "/etc/sos/sos.conf",
+      "size": 1530,
+      "mode": "0o644",
+      "mtime": 1782514920
+    },
+    {
+      "path": "/etc/fonts/fonts.conf",
+      "size": 2808,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/30-metric-aliases.conf",
+      "size": 13393,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-autohint.conf",
+      "size": 706,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/57-dejavu-sans.conf",
+      "size": 1711,
+      "mode": "0o644",
+      "mtime": 1613986271
+    },
+    {
+      "path": "/etc/fonts/conf.avail/80-delicious.conf",
+      "size": 597,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/57-dejavu-serif.conf",
+      "size": 1357,
+      "mode": "0o644",
+      "mtime": 1613986271
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-hinting-full.conf",
+      "size": 692,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/20-unhint-small-dejavu-sans-mono.conf",
+      "size": 866,
+      "mode": "0o644",
+      "mtime": 1469867871
+    },
+    {
+      "path": "/etc/fonts/conf.avail/49-sansserif.conf",
+      "size": 799,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-sub-pixel-vrgb.conf",
+      "size": 758,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/25-unhint-nonlatin.conf",
+      "size": 3489,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/70-yes-bitmaps.conf",
+      "size": 77,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-hinting-none.conf",
+      "size": 692,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/70-no-bitmaps.conf",
+      "size": 487,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/58-dejavu-lgc-sans-mono.conf",
+      "size": 1545,
+      "mode": "0o644",
+      "mtime": 1469867871
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-sub-pixel-rgb.conf",
+      "size": 748,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-sub-pixel-vbgr.conf",
+      "size": 758,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/45-latin.conf",
+      "size": 6697,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/65-fonts-persian.conf",
+      "size": 10293,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/58-dejavu-lgc-serif.conf",
+      "size": 1689,
+      "mode": "0o644",
+      "mtime": 1469867871
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-hinting-medium.conf",
+      "size": 696,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/20-unhint-small-dejavu-lgc-sans-mono.conf",
+      "size": 874,
+      "mode": "0o644",
+      "mtime": 1469867871
+    },
+    {
+      "path": "/etc/fonts/conf.avail/58-dejavu-lgc-sans.conf",
+      "size": 2063,
+      "mode": "0o644",
+      "mtime": 1469867871
+    },
+    {
+      "path": "/etc/fonts/conf.avail/57-dejavu-sans-mono.conf",
+      "size": 1201,
+      "mode": "0o644",
+      "mtime": 1613986271
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-scale-bitmap-fonts.conf",
+      "size": 2228,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/11-lcdfilter-default.conf",
+      "size": 771,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/65-khmer.conf",
+      "size": 464,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/20-unhint-small-vera.conf",
+      "size": 1537,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/69-unifont.conf",
+      "size": 847,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/51-local.conf",
+      "size": 423,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/40-nonlatin.conf",
+      "size": 5630,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-hinting-slight.conf",
+      "size": 696,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-antialias.conf",
+      "size": 225,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/53-monospace-lcd-filter.conf",
+      "size": 943,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-no-sub-pixel.conf",
+      "size": 723,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/20-unhint-small-dejavu-sans.conf",
+      "size": 856,
+      "mode": "0o644",
+      "mtime": 1469867871
+    },
+    {
+      "path": "/etc/fonts/conf.avail/11-lcdfilter-light.conf",
+      "size": 765,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/20-unhint-small-dejavu-lgc-serif.conf",
+      "size": 866,
+      "mode": "0o644",
+      "mtime": 1469867871
+    },
+    {
+      "path": "/etc/fonts/conf.avail/11-lcdfilter-legacy.conf",
+      "size": 768,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-unhinted.conf",
+      "size": 701,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/20-unhint-small-dejavu-serif.conf",
+      "size": 858,
+      "mode": "0o644",
+      "mtime": 1469867871
+    },
+    {
+      "path": "/etc/fonts/conf.avail/70-force-bitmaps.conf",
+      "size": 487,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/60-latin.conf",
+      "size": 2068,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/60-generic.conf",
+      "size": 2041,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/10-sub-pixel-bgr.conf",
+      "size": 748,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/65-nonlatin.conf",
+      "size": 8008,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/45-generic.conf",
+      "size": 3543,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/90-synthetic.conf",
+      "size": 1917,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/50-user.conf",
+      "size": 911,
+      "mode": "0o644",
+      "mtime": 1648043558
+    },
+    {
+      "path": "/etc/fonts/conf.avail/20-unhint-small-dejavu-lgc-sans.conf",
+      "size": 864,
+      "mode": "0o644",
+      "mtime": 1469867871
+    },
+    {
+      "path": "/etc/iscsi/iscsid.conf",
+      "size": 13334,
+      "mode": "0o644",
+      "mtime": 1783069458
+    },
+    {
+      "path": "/etc/selinux/semanage.conf",
+      "size": 2041,
+      "mode": "0o644",
+      "mtime": 1647525996
+    },
+    {
+      "path": "/etc/rsyslog.d/50-default.conf",
+      "size": 1124,
+      "mode": "0o644",
+      "mtime": 1637053714
+    },
+    {
+      "path": "/etc/rsyslog.d/21-cloudinit.conf",
+      "size": 255,
+      "mode": "0o644",
+      "mtime": 1774897009
+    },
+    {
+      "path": "/etc/rsyslog.d/20-ufw.conf",
+      "size": 314,
+      "mode": "0o644",
+      "mtime": 1632028053
+    },
+    {
+      "path": "/etc/systemd/logind.conf",
+      "size": 1374,
+      "mode": "0o644",
+      "mtime": 1649359695
+    },
+    {
+      "path": "/etc/systemd/networkd.conf",
+      "size": 846,
+      "mode": "0o644",
+      "mtime": 1647002929
+    },
+    {
+      "path": "/etc/systemd/pstore.conf",
+      "size": 670,
+      "mode": "0o644",
+      "mtime": 1647002929
+    },
+    {
+      "path": "/etc/systemd/user.conf",
+      "size": 1394,
+      "mode": "0o644",
+      "mtime": 1649359695
+    },
+    {
+      "path": "/etc/systemd/system.conf",
+      "size": 1993,
+      "mode": "0o644",
+      "mtime": 1649359695
+    },
+    {
+      "path": "/etc/systemd/sleep.conf",
+      "size": 931,
+      "mode": "0o644",
+      "mtime": 1647002929
+    },
+    {
+      "path": "/etc/systemd/resolved.conf",
+      "size": 1406,
+      "mode": "0o644",
+      "mtime": 1649359695
+    },
+    {
+      "path": "/etc/systemd/journald.conf",
+      "size": 1282,
+      "mode": "0o644",
+      "mtime": 1649359695
+    },
+    {
+      "path": "/etc/systemd/timesyncd.conf",
+      "size": 748,
+      "mode": "0o644",
+      "mtime": 1649359695
+    },
+    {
+      "path": "/etc/apache2/conf-available/javascript-common.conf",
+      "size": 127,
+      "mode": "0o644",
+      "mtime": 1608319991
+    },
+    {
+      "path": "/home/E-4.096/dead.letter",
+      "size": 283,
+      "mode": "0o600",
+      "mtime": 1795222449
+    },
+    {
+      "path": "/home/E-4.096/.profile",
+      "size": 807,
+      "mode": "0o644",
+      "mtime": 1641486213
+    },
+    {
+      "path": "/home/E-4.096/layout.pngT",
+      "size": 196617,
+      "mode": "0o664",
+      "mtime": 1795216799
+    },
+    {
+      "path": "/home/E-4.096/.pinerc",
+      "size": 23020,
+      "mode": "0o600",
+      "mtime": 1795215437
+    },
+    {
+      "path": "/home/E-4.096/.bash_history",
+      "size": 1545,
+      "mode": "0o600",
+      "mtime": 1795233335
+    },
+    {
+      "path": "/home/E-4.096/.addressbook",
+      "size": 0,
+      "mode": "0o664",
+      "mtime": 1795216877
+    },
+    {
+      "path": "/home/E-4.096/layout.png",
+      "size": 196617,
+      "mode": "0o664",
+      "mtime": 1795217077
+    },
+    {
+      "path": "/home/E-4.096/C",
+      "size": 439,
+      "mode": "0o664",
+      "mtime": 1795215648
+    },
+    {
+      "path": "/home/E-4.096/.bash_logout",
+      "size": 220,
+      "mode": "0o644",
+      "mtime": 1641486213
+    },
+    {
+      "path": "/home/E-4.096/T",
+      "size": 400,
+      "mode": "0o664",
+      "mtime": 1795215484
+    },
+    {
+      "path": "/home/E-4.096/y",
+      "size": 226,
+      "mode": "0o664",
+      "mtime": 1795216163
+    },
+    {
+      "path": "/home/E-4.096/.bashrc",
+      "size": 3771,
+      "mode": "0o644",
+      "mtime": 1641486213
+    },
+    {
+      "path": "/home/E-4.096/.cache/motd.legal-displayed",
+      "size": 0,
+      "mode": "0o644",
+      "mtime": 1795215137
+    },
+    {
+      "path": "/home/E-4.096/.ssh/known_hosts",
+      "size": 978,
+      "mode": "0o600",
+      "mtime": 1795217014
+    },
+    {
+      "path": "/home/E-4.096/.ssh/known_hosts.old",
+      "size": 142,
+      "mode": "0o644",
+      "mtime": 1795217001
+    },
+    {
+      "path": "/home/E-4.096/.ssh/authorized_keys",
+      "size": 0,
+      "mode": "0o600",
+      "mtime": 1795055693
+    },
+    {
+      "path": "/vagrant/authRecorder.py",
+      "size": 5919,
+      "mode": "0o644",
+      "mtime": 1794937798
+    },
+    {
+      "path": "/vagrant/Vagrantfile",
+      "size": 6023,
+      "mode": "0o644",
+      "mtime": 1795054564
+    },
+    {
+      "path": "/vagrant/templateShadowFile.txt",
+      "size": 971,
+      "mode": "0o644",
+      "mtime": 1794937798
+    },
+    {
+      "path": "/vagrant/README.md",
+      "size": 3161,
+      "mode": "0o644",
+      "mtime": 1795054140
+    },
+    {
+      "path": "/vagrant/VagrantManager.py",
+      "size": 8754,
+      "mode": "0o644",
+      "mtime": 1795055363
+    },
+    {
+      "path": "/vagrant/motd.sh",
+      "size": 504,
+      "mode": "0o755",
+      "mtime": 1795032696
+    },
+    {
+      "path": "/vagrant/.DS_Store",
+      "size": 8196,
+      "mode": "0o644",
+      "mtime": 1795030754
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "size": 121686,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox6.ithelp",
+      "size": 5728,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox9.ithelp",
+      "size": 5554,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox4.ithelp",
+      "size": 5612,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox11.ithelp",
+      "size": 3002,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox2.ithelp",
+      "size": 5960,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox3.ithelp",
+      "size": 5786,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox1.ithelp",
+      "size": 5844,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox12.ithelp",
+      "size": 2886,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox7.ithelp",
+      "size": 5554,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox10.ithelp",
+      "size": 3002,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox5.ithelp",
+      "size": 5670,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/generated_files/.shadowbox8.ithelp",
+      "size": 5728,
+      "mode": "0o644",
+      "mtime": 1795050162
+    },
+    {
+      "path": "/vagrant/.vagrant/rgloader/loader.rb",
+      "size": 423,
+      "mode": "0o644",
+      "mtime": 1795015841
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795056055
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795056052
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795056052
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795056053
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795056056
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795056194
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795056052
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795056088
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795056199
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795056198
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795056015
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box6/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795056194
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795053591
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795053588
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795053588
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795053588
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795053728
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795053724
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795053592
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795053729
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795053620
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795053556
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795053594
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box1/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795054993
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795055945
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795055810
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795055944
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795055809
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795055770
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795055812
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795055846
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795055813
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795055809
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795055809
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795055941
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box5/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795055941
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795056563
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795056711
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795056596
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795056707
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795056708
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795056712
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795056558
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795056558
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795056564
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795056516
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795056558
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box8/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795056560
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795055153
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795055067
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795055040
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795055035
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795055035
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795055153
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795055038
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795055156
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795055035
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795054993
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795055157
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box2/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795055041
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795057032
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795057068
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795057063
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795057063
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795057217
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795057063
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795057212
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795057212
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795057100
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795057216
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795057069
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box10/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795057065
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795057534
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795057572
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795057540
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795057679
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795057532
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795057532
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795057675
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795057532
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795057539
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795057675
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795057506
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box12/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795057680
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795056443
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795056305
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795056305
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795056446
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795056307
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795056311
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795056448
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795056310
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795056338
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795056269
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795056305
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box7/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795056443
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795057472
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795057281
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795057251
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795057281
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795057473
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795057283
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795057469
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795057288
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795057319
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795057468
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795057281
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box11/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795057286
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795055308
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795055420
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795055274
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795055278
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795055274
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795055424
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795055276
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795055423
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795055420
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795055274
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795055278
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box3/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795055232
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795056809
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795056813
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795056844
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795056809
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795056964
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795056963
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795056815
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795056809
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795056960
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795056960
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795056782
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box9/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795056811
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/creator_uid",
+      "size": 4,
+      "mode": "0o644",
+      "mtime": 1795055549
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/action_cloud_init_iso",
+      "size": 101,
+      "mode": "0o644",
+      "mtime": 1795055553
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/action_provision",
+      "size": 40,
+      "mode": "0o644",
+      "mtime": 1795055700
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/action_cloud_init",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795055695
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/id",
+      "size": 36,
+      "mode": "0o644",
+      "mtime": 1795055549
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/action_set_name",
+      "size": 10,
+      "mode": "0o644",
+      "mtime": 1795055552
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/private_key",
+      "size": 400,
+      "mode": "0o600",
+      "mtime": 1795055581
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/vagrant_cwd",
+      "size": 47,
+      "mode": "0o644",
+      "mtime": 1795055495
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/index_uuid",
+      "size": 32,
+      "mode": "0o644",
+      "mtime": 1795055549
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/disk_meta",
+      "size": 155,
+      "mode": "0o644",
+      "mtime": 1795055554
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/box_meta",
+      "size": 146,
+      "mode": "0o644",
+      "mtime": 1795055695
+    },
+    {
+      "path": "/vagrant/.vagrant/machines/box4/virtualbox/synced_folders",
+      "size": 151,
+      "mode": "0o644",
+      "mtime": 1795055698
+    }
+  ],
+  "keyword_hits": [
+    {
+      "path": "/etc/E-4.000confidential.mbox",
+      "line": 355,
+      "snippet": "To: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.000confidential.mbox",
+      "line": 356,
+      "snippet": "Subject: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.000confidential.mbox",
+      "line": 1524,
+      "snippet": "To: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.000confidential.mbox",
+      "line": 1525,
+      "snippet": "Subject: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.000confidential.mbox",
+      "line": 5099,
+      "snippet": "To: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.000confidential.mbox",
+      "line": 5100,
+      "snippet": "Subject: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.000confidential.mbox",
+      "line": 5170,
+      "snippet": "From: Crane Operations Supervisor <supervisor@example.com>"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 88,
+      "snippet": "# --security-freeze Freeze the drive's security status"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 89,
+      "snippet": "# security_freeze"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 90,
+      "snippet": "# --security-unlock Unlock the drive's security"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 91,
+      "snippet": "# security_unlock = PWD"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 92,
+      "snippet": "# --security-set-pass Set security password"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 93,
+      "snippet": "# security_pass = password"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 94,
+      "snippet": "# --security-disable Disable drive locking"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 95,
+      "snippet": "# security_disable"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 98,
+      "snippet": "# --security-mode Set the security mode"
+    },
+    {
+      "path": "/etc/hdparm.conf",
+      "line": 99,
+      "snippet": "# security_mode = h"
+    },
+    {
+      "path": "/etc/xattr.conf",
+      "line": 21,
+      "snippet": "security.evm\t\t\tskip\t\t# may only be written by kernel"
+    },
+    {
+      "path": "/etc/E-4.026confidential.mbox",
+      "line": 848,
+      "snippet": "To: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.026confidential.mbox",
+      "line": 849,
+      "snippet": "Subject: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.026confidential.mbox",
+      "line": 906,
+      "snippet": "From: Crane Operations Supervisor <supervisor@example.com>"
+    },
+    {
+      "path": "/etc/E-4.026confidential.mbox",
+      "line": 1376,
+      "snippet": "To: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.026confidential.mbox",
+      "line": 1377,
+      "snippet": "Subject: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.026confidential.mbox",
+      "line": 5123,
+      "snippet": "To: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.026confidential.mbox",
+      "line": 5124,
+      "snippet": "Subject: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/sudo_logsrvd.conf",
+      "line": 219,
+      "snippet": "# is allowed by the security policy.  The following syslog priorities are"
+    },
+    {
+      "path": "/etc/sudo_logsrvd.conf",
+      "line": 224,
+      "snippet": "# is not allowed by the security policy."
+    },
+    {
+      "path": "/etc/ca-certificates.conf",
+      "line": 106,
+      "snippet": "mozilla/Security_Communication_RootCA2.crt"
+    },
+    {
+      "path": "/etc/ca-certificates.conf",
+      "line": 107,
+      "snippet": "!mozilla/Security_Communication_Root_CA.crt"
+    },
+    {
+      "path": "/etc/ca-certificates.conf",
+      "line": 165,
+      "snippet": "mozilla/Security_Communication_ECC_RootCA1.crt"
+    },
+    {
+      "path": "/etc/ca-certificates.conf",
+      "line": 168,
+      "snippet": "mozilla/Telekom_Security_TLS_ECC_Root_2020.crt"
+    },
+    {
+      "path": "/etc/ca-certificates.conf",
+      "line": 169,
+      "snippet": "mozilla/Telekom_Security_TLS_RSA_Root_2023.crt"
+    },
+    {
+      "path": "/etc/E-4.047confidential.mbox",
+      "line": 733,
+      "snippet": "To: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.047confidential.mbox",
+      "line": 734,
+      "snippet": "Subject: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.047confidential.mbox",
+      "line": 1219,
+      "snippet": "To: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.047confidential.mbox",
+      "line": 1220,
+      "snippet": "Subject: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.047confidential.mbox",
+      "line": 1798,
+      "snippet": "To: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.047confidential.mbox",
+      "line": 1799,
+      "snippet": "Subject: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.047confidential.mbox",
+      "line": 5413,
+      "snippet": "From: Crane Operations Supervisor <supervisor@example.com>"
+    },
+    {
+      "path": "/etc/sysctl.conf",
+      "line": 38,
+      "snippet": "# security of the host and prevent against some network attacks"
+    },
+    {
+      "path": "/etc/E-4.036confidential.mbox",
+      "line": 375,
+      "snippet": "To: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.036confidential.mbox",
+      "line": 376,
+      "snippet": "Subject: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.036confidential.mbox",
+      "line": 921,
+      "snippet": "From: Crane Operations Supervisor <supervisor@example.com>"
+    },
+    {
+      "path": "/etc/E-4.036confidential.mbox",
+      "line": 1105,
+      "snippet": "To: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.036confidential.mbox",
+      "line": 1106,
+      "snippet": "Subject: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.036confidential.mbox",
+      "line": 4904,
+      "snippet": "To: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.036confidential.mbox",
+      "line": 4905,
+      "snippet": "Subject: Crane System Password Review"
+    },
+    {
+      "path": "/etc/overlayroot.conf",
+      "line": 146,
+      "snippet": "# Security Note:"
+    },
+    {
+      "path": "/etc/overlayroot.conf",
+      "line": 164,
+      "snippet": "#        + security-paranoid users can write 4096-bytes of randomness to"
+    },
+    {
+      "path": "/etc/debconf.conf",
+      "line": 69,
+      "snippet": "#BindPasswd: secret"
+    },
+    {
+      "path": "/etc/E-4.003confidential.mbox",
+      "line": 73,
+      "snippet": "To: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.003confidential.mbox",
+      "line": 74,
+      "snippet": "Subject: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.003confidential.mbox",
+      "line": 413,
+      "snippet": "To: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.003confidential.mbox",
+      "line": 414,
+      "snippet": "Subject: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.003confidential.mbox",
+      "line": 1621,
+      "snippet": "To: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.003confidential.mbox",
+      "line": 1622,
+      "snippet": "Subject: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.003confidential.mbox",
+      "line": 5394,
+      "snippet": "From: Crane Operations Supervisor <supervisor@example.com>"
+    },
+    {
+      "path": "/etc/E-4.004confidential.mbox",
+      "line": 3,
+      "snippet": "To: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.004confidential.mbox",
+      "line": 4,
+      "snippet": "Subject: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.004confidential.mbox",
+      "line": 398,
+      "snippet": "To: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.004confidential.mbox",
+      "line": 399,
+      "snippet": "Subject: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.004confidential.mbox",
+      "line": 1144,
+      "snippet": "To: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.004confidential.mbox",
+      "line": 1145,
+      "snippet": "Subject: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.078confidential.mbox",
+      "line": 357,
+      "snippet": "To: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.078confidential.mbox",
+      "line": 358,
+      "snippet": "Subject: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.078confidential.mbox",
+      "line": 4320,
+      "snippet": "To: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.078confidential.mbox",
+      "line": 4321,
+      "snippet": "Subject: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.008confidential.mbox",
+      "line": 313,
+      "snippet": "To: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.008confidential.mbox",
+      "line": 314,
+      "snippet": "Subject: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.008confidential.mbox",
+      "line": 809,
+      "snippet": "From: Crane Operations Supervisor <supervisor@example.com>"
+    },
+    {
+      "path": "/etc/E-4.008confidential.mbox",
+      "line": 1723,
+      "snippet": "To: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.008confidential.mbox",
+      "line": 1724,
+      "snippet": "Subject: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.008confidential.mbox",
+      "line": 2095,
+      "snippet": "To: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.008confidential.mbox",
+      "line": 2096,
+      "snippet": "Subject: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.096confidential.mbox",
+      "line": 606,
+      "snippet": "To: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.096confidential.mbox",
+      "line": 607,
+      "snippet": "Subject: Crane inspection follow-up"
+    },
+    {
+      "path": "/etc/E-4.096confidential.mbox",
+      "line": 622,
+      "snippet": "To: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.096confidential.mbox",
+      "line": 623,
+      "snippet": "Subject: Update about Yard Information"
+    },
+    {
+      "path": "/etc/E-4.096confidential.mbox",
+      "line": 4113,
+      "snippet": "To: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.096confidential.mbox",
+      "line": 4114,
+      "snippet": "Subject: Crane System Password Review"
+    },
+    {
+      "path": "/etc/E-4.096confidential.mbox",
+      "line": 4788,
+      "snippet": "From: Crane Operations Supervisor <supervisor@example.com>"
+    },
+    {
+      "path": "/etc/security/capability.conf",
+      "line": 2,
+      "snippet": "# /etc/security/capability.conf"
+    },
+    {
+      "path": "/etc/security/capability.conf",
+      "line": 11,
+      "snippet": "#   http://www.kernel.org/pub/linux/libs/security/linux-privs/"
+    },
+    {
+      "path": "/etc/security/capability.conf",
+      "line": 30,
+      "snippet": "## is a security problem waiting to happen, but it defaults to not being"
+    },
+    {
+      "path": "/etc/security/namespace.conf",
+      "line": 1,
+      "snippet": "# /etc/security/namespace.conf"
+    },
+    {
+      "path": "/etc/security/namespace.conf",
+      "line": 7,
+      "snippet": "# be polyinstantiated based on the MLS level part of the security context as well as user"
+    },
+    {
+      "path": "/etc/security/namespace.conf",
+      "line": 23,
+      "snippet": "# caution, as it will reduce security and isolation achieved by"
+    },
+    {
+      "path": "/etc/security/time.conf",
+      "line": 13,
+      "snippet": "# namely individual tokens that are optionally prefixed with '!' (logical"
+    },
+    {
+      "path": "/etc/security/sepermit.conf",
+      "line": 1,
+      "snippet": "# /etc/security/sepermit.conf"
+    },
+    {
+      "path": "/etc/security/limits.conf",
+      "line": 1,
+      "snippet": "# /etc/security/limits.conf"
+    },
+    {
+      "path": "/etc/security/group.conf",
+      "line": 27,
+      "snippet": "# namely individual tokens that are optionally prefixed with '!' (logical"
+    },
+    {
+      "path": "/etc/dbus-1/system.d/org.freedesktop.PackageKit.conf",
+      "line": 8,
+      "snippet": "<!-- This configuration file specifies the required security policies"
+    },
+    {
+      "path": "/etc/modprobe.d/blacklist-rare-network.conf",
+      "line": 2,
+      "snippet": "# security flaws discovered. In an effort to reduce the scope of future"
+    },
+    {
+      "path": "/etc/sysctl.d/10-zeropage.conf",
+      "line": 2,
+      "snippet": "# NULL-dereference attacks against potential future kernel security"
+    },
+    {
+      "path": "/etc/sysctl.d/10-ptrace.conf",
+      "line": 12,
+      "snippet": "# https://wiki.ubuntu.com/SecurityTeam/Roadmap/KernelHardening#ptrace"
+    },
+    {
+      "path": "/etc/sysctl.d/10-kernel-hardening.conf",
+      "line": 23,
+      "snippet": "# dmesg_restrict defaults to 1 via CONFIG_SECURITY_DMESG_RESTRICT, only"
+    },
+    {
+      "path": "/etc/sysctl.d/10-magic-sysrq.conf",
+      "line": 6,
+      "snippet": "# system, and having it enabled by default can lead to security issues on"
+    },
+    {
+      "path": "/etc/apparmor/parser.conf",
+      "line": 27,
+      "snippet": "#subdomainfs /sys/kernel/security/apparmor"
+    },
+    {
+      "path": "/etc/needrestart/needrestart.conf",
+      "line": 178,
+      "snippet": "# -1: ignore non-existing files, workaround for chroots and broken grsecurity kernels (default)"
+    },
+    {
+      "path": "/home/E-4.096/.pinerc",
+      "line": 198,
+      "snippet": "# Characters which surround keywords in SUBJKEY token."
+    },
+    {
+      "path": "/home/E-4.096/.pinerc",
+      "line": 202,
+      "snippet": "# Characters between subject and opening text in SUBJECTTEXT token."
+    },
+    {
+      "path": "/home/E-4.096/.pinerc",
+      "line": 207,
+      "snippet": "# up of space-delimited tokens telling which fields are displayed and in"
+    },
+    {
+      "path": "/home/E-4.096/.pinerc",
+      "line": 212,
+      "snippet": "# up of space-delimited tokens telling which fields are displayed and in"
+    },
+    {
+      "path": "/home/E-4.096/.pinerc",
+      "line": 494,
+      "snippet": "# Your client-id and client-secret information to authenticate using XOAUTH2"
+    },
+    {
+      "path": "/home/E-4.096/.pinerc",
+      "line": 592,
+      "snippet": "# Colors in which tokens will be displayed in the index screen"
+    },
+    {
+      "path": "/home/E-4.096/.pinerc",
+      "line": 593,
+      "snippet": "index-token-colors="
+    },
+    {
+      "path": "/home/E-4.096/.bash_history",
+      "line": 15,
+      "snippet": "find /opt /srv /var/www /etc -maxdepth 3 -readable 2>/dev/null | grep -iE 'port|yard|crane|gate|camera|manifest|schedule|role|inspector|manager|security|auth|api|web'"
+    },
+    {
+      "path": "/home/E-4.096/.bash_history",
+      "line": 24,
+      "snippet": "find /etc /var /home /vagrant -group crane-operator -readable 2>/dev/null"
+    },
+    {
+      "path": "/home/E-4.096/.bash_history",
+      "line": 65,
+      "snippet": "crane-operator"
+    },
+    {
+      "path": "/home/E-4.096/y",
+      "line": 3,
+      "snippet": "As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow."
+    },
+    {
+      "path": "/vagrant/README.md",
+      "line": 1,
+      "snippet": "The VagrantManager.py script and the Vagrantfile expect some files to be present in order to correctly generate the machines. In the users directory, run `generateUsers.py` to generate the user profil"
+    },
+    {
+      "path": "/vagrant/README.md",
+      "line": 2,
+      "snippet": "Look at the [generateUsers README](../users/README.md) and the [commodity_generator README](../cargo/README.md) for more information."
+    },
+    {
+      "path": "/vagrant/README.md",
+      "line": 15,
+      "snippet": "-  the user's group also has permission to read the file (any cargo-inspector can read any other cargo-inspector's file)"
+    },
+    {
+      "path": "/vagrant/VagrantManager.py",
+      "line": 30,
+      "snippet": "- role: yard-manager"
+    },
+    {
+      "path": "/vagrant/VagrantManager.py",
+      "line": 33,
+      "snippet": "- role: crane-operator"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 19,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 22,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 25,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 28,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 31,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 34,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 37,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 40,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 43,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 46,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 49,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 52,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 55,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 58,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 61,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 64,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 67,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 70,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 73,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 76,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 79,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 82,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 85,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 88,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 91,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 94,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 97,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 100,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 103,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 106,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 109,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 112,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 115,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 118,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 121,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 124,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 127,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 130,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 133,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 136,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 139,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 142,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 145,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 148,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 151,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 154,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 157,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 160,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 163,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 166,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 169,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 172,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 175,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 178,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 181,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 184,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 187,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 190,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 193,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 196,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 199,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 202,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 205,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 208,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 211,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 214,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 217,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 220,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 223,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 226,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 229,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 232,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 235,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 238,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 241,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 244,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 247,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 250,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 253,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 256,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 259,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 262,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 265,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 268,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 271,
+      "snippet": "- role: crane-operator"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 281,
+      "snippet": "- role: security-operator"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 298,
+      "snippet": "- role: cargo-inspector"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 339,
+      "snippet": "- role: yard-manager"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 372,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 375,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 378,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 381,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 384,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 387,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 390,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 393,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 396,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 399,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 402,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 405,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 408,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 411,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 414,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 417,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 420,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 423,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 426,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 429,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 432,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 435,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 438,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 441,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 444,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 447,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 450,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 453,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 456,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 459,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 462,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 465,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 468,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 471,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 474,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 477,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 480,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 483,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 486,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 489,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 492,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 495,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 498,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 501,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 504,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 507,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 510,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 513,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 516,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 519,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 522,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 525,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 528,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 531,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 534,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 537,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 540,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 543,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 546,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 549,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 552,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 555,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 558,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 561,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 564,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 567,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 570,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 573,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 576,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 579,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 582,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 585,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 588,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 591,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 594,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 597,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 600,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 603,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 606,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 609,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 612,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 615,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 618,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 621,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 624,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 627,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 630,
+      "snippet": "- role: crane-operator"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 642,
+      "snippet": "- role: security-operator"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 661,
+      "snippet": "- role: cargo-inspector"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 698,
+      "snippet": "- role: yard-manager"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 733,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 736,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 739,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 742,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 745,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 748,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 751,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 754,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 757,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 760,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 763,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 766,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 769,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 772,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 775,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 778,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 781,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 784,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 787,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 790,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 793,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 796,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 799,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 802,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 805,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 808,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 811,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 814,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 817,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 820,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 823,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 826,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 829,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 832,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 835,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 838,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 841,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 844,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 847,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 850,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 853,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 856,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 859,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 862,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 865,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 868,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 871,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 874,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 877,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 880,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 883,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 886,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 889,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 892,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 895,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 898,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 901,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 904,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 907,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 910,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 913,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 916,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 919,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 922,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 925,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 928,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 931,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 934,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 937,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 940,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 943,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 946,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 949,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 952,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 955,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 958,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 961,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 964,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 967,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 970,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 973,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 976,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 979,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 982,
+      "snippet": "- role: crane-operator"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 994,
+      "snippet": "- role: security-operator"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1011,
+      "snippet": "- role: cargo-inspector"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1048,
+      "snippet": "- role: yard-manager"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1082,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1085,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1088,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1091,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1094,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1097,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1100,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1103,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1106,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1109,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1112,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1115,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1118,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1121,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1124,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1127,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1130,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1133,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1136,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1139,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1142,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1145,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1148,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1151,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1154,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1157,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1160,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1163,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1166,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1169,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1172,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1175,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1178,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1181,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1184,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1187,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1190,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1193,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1196,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1199,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1202,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1205,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1208,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1211,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1214,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1217,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1220,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1223,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1226,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1229,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1232,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1235,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1238,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1241,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1244,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1247,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1250,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1253,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1256,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1259,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1262,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1265,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1268,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1271,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1274,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1277,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1280,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1283,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1286,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1289,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1292,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1295,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1298,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1301,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1304,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1307,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1310,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1313,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1316,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1319,
+      "snippet": "group: \"yard-manager\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1322,
+      "snippet": "- role: crane-operator"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1334,
+      "snippet": "- role: security-operator"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1352,
+      "snippet": "- role: cargo-inspector"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1386,
+      "snippet": "- role: yard-manager"
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1419,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1422,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1425,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1428,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1431,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1434,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1437,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1440,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1443,
+      "snippet": "group: \"crane-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1446,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1449,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1452,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1455,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1458,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1461,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1464,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1467,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1470,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1473,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1476,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1479,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1482,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1485,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1488,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1491,
+      "snippet": "group: \"security-operator\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1494,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1497,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1500,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1503,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1506,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1509,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1512,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1515,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1518,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1521,
+      "snippet": "group: \"cargo-inspector\""
+    },
+    {
+      "path": "/vagrant/generated_files/vars.yaml",
+      "line": 1524,
+      "snippet": "group: \"cargo-inspector\""
+    }
+  ],
+  "errors": []
+}
