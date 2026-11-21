@@ -1,0 +1,2962 @@
+
+============================================================
+MAILBOX: E-4.000confidential.mbox
+============================================================
+
+FROM:    Staff Newsletter Team <newsletter@example.com>
+SUBJECT: Newsletter word of the week
+----------------------------------------
+Hi Zavier,
+
+The newsletter's word of the week is "bond007," which seems like a perfectly good word for a quiet Sunday.
+
+There is no quiz or follow-up. Just sharing a small bit of newsletter trivia.
+
+Staff Newsletter Team
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Crane System Password Review
+----------------------------------------
+Hi Zavier,
+
+As part of our routine access review, we noticed that your crane control account is still using a very short password.
+
+Account: E-<built-in function id>
+Password: *******
+System: Crane Operations Portal
+
+Although the password meets the old crane system requirements, IT recommends updating it to a longer password before the next scheduled maintenance window.
+
+Thanks,
+Crane Systems IT
+
+============================================================
+MAILBOX: E-4.003confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Crane System Password Review
+----------------------------------------
+Hi Katalina,
+
+As part of our routine access review, we noticed that your crane control account is still using a very short password.
+
+Account: E-<built-in function id>
+Password: *******
+System: Crane Operations Portal
+
+Although the password meets the old crane system requirements, IT recommends updating it to a longer password before the next scheduled maintenance window.
+
+Thanks,
+Crane Systems IT
+
+FROM:    Staff Newsletter Team <newsletter@example.com>
+SUBJECT: Newsletter word of the week
+----------------------------------------
+Hi Katalina,
+
+The newsletter's word of the week is "chester," which seems like a perfectly good word for a quiet Sunday.
+
+There is no quiz or follow-up. Just sharing a small bit of newsletter trivia.
+
+Staff Newsletter Team
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.004confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Crane System Password Review
+----------------------------------------
+Hi Larry,
+
+As part of our routine access review, we noticed that your crane control account is still using a very short password.
+
+Account: E-<built-in function id>
+Password: ******
+System: Crane Operations Portal
+
+Although the password meets the old crane system requirements, IT recommends updating it to a longer password before the next scheduled maintenance window.
+
+Thanks,
+Crane Systems IT
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Staff Newsletter Team <newsletter@example.com>
+SUBJECT: Newsletter word of the week
+----------------------------------------
+Hi Larry,
+
+The newsletter's word of the week is "thomas," which seems like a perfectly good word for a quiet Sunday.
+
+There is no quiz or follow-up. Just sharing a small bit of newsletter trivia.
+
+Staff Newsletter Team
+
+============================================================
+MAILBOX: E-4.008confidential.mbox
+============================================================
+
+FROM:    Staff Newsletter Team <newsletter@example.com>
+SUBJECT: Newsletter word of the week
+----------------------------------------
+Hi Arabella,
+
+The newsletter's word of the week is "superman," which seems like a perfectly good word for a quiet Sunday.
+
+There is no quiz or follow-up. Just sharing a small bit of newsletter trivia.
+
+Staff Newsletter Team
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Crane System Password Review
+----------------------------------------
+Hi Arabella,
+
+As part of our routine access review, we noticed that your crane control account is still using a very short password.
+
+Account: E-<built-in function id>
+Password: ********
+System: Crane Operations Portal
+
+Although the password meets the old crane system requirements, IT recommends updating it to a longer password before the next scheduled maintenance window.
+
+Thanks,
+Crane Systems IT
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.026confidential.mbox
+============================================================
+
+FROM:    Staff Newsletter Team <newsletter@example.com>
+SUBJECT: Newsletter word of the week
+----------------------------------------
+Hi Christopher,
+
+The newsletter's word of the week is "blowme," which seems like a perfectly good word for a quiet Sunday.
+
+There is no quiz or follow-up. Just sharing a small bit of newsletter trivia.
+
+Staff Newsletter Team
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Crane System Password Review
+----------------------------------------
+Hi Christopher,
+
+As part of our routine access review, we noticed that your crane control account is still using a very short password.
+
+Account: E-<built-in function id>
+Password: ******
+System: Crane Operations Portal
+
+Although the password meets the old crane system requirements, IT recommends updating it to a longer password before the next scheduled maintenance window.
+
+Thanks,
+Crane Systems IT
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.036confidential.mbox
+============================================================
+
+FROM:    Staff Newsletter Team <newsletter@example.com>
+SUBJECT: Newsletter word of the week
+----------------------------------------
+Hi Eliezer,
+
+The newsletter's word of the week is "silver," which seems like a perfectly good word for a quiet Sunday.
+
+There is no quiz or follow-up. Just sharing a small bit of newsletter trivia.
+
+Staff Newsletter Team
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Crane System Password Review
+----------------------------------------
+Hi Eliezer,
+
+As part of our routine access review, we noticed that your crane control account is still using a very short password.
+
+Account: E-<built-in function id>
+Password: ******
+System: Crane Operations Portal
+
+Although the password meets the old crane system requirements, IT recommends updating it to a longer password before the next scheduled maintenance window.
+
+Thanks,
+Crane Systems IT
+
+============================================================
+MAILBOX: E-4.047confidential.mbox
+============================================================
+
+FROM:    Staff Newsletter Team <newsletter@example.com>
+SUBJECT: Newsletter word of the week
+----------------------------------------
+Hi Miriam,
+
+The newsletter's word of the week is "<CKj2m*1," which seems like a perfectly good word for a quiet Sunday.
+
+There is no quiz or follow-up. Just sharing a small bit of newsletter trivia.
+
+Staff Newsletter Team
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Crane System Password Review
+----------------------------------------
+Hi Miriam,
+
+As part of our routine access review, we noticed that your crane control account is still using a very short password.
+
+Account: E-<built-in function id>
+Password: ********
+System: Crane Operations Portal
+
+Although the password meets the old crane system requirements, IT recommends updating it to a longer password before the next scheduled maintenance window.
+
+Thanks,
+Crane Systems IT
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.078confidential.mbox
+============================================================
+
+FROM:    Staff Newsletter Team <newsletter@example.com>
+SUBJECT: Newsletter word of the week
+----------------------------------------
+Hi Piper,
+
+The newsletter's word of the week is "password1," which seems like a perfectly good word for a quiet Sunday.
+
+There is no quiz or follow-up. Just sharing a small bit of newsletter trivia.
+
+Staff Newsletter Team
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Crane System Password Review
+----------------------------------------
+Hi Piper,
+
+As part of our routine access review, we noticed that your crane control account is still using a very short password.
+
+Account: E-<built-in function id>
+Password: *********
+System: Crane Operations Portal
+
+Although the password meets the old crane system requirements, IT recommends updating it to a longer password before the next scheduled maintenance window.
+
+Thanks,
+Crane Systems IT
+
+============================================================
+MAILBOX: E-4.096confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Crane System Password Review
+----------------------------------------
+Hi Mason,
+
+As part of our routine access review, we noticed that your crane control account is still using a very short password.
+
+Account: E-<built-in function id>
+Password: *******
+System: Crane Operations Portal
+
+Although the password meets the old crane system requirements, IT recommends updating it to a longer password before the next scheduled maintenance window.
+
+Thanks,
+Crane Systems IT
+
+FROM:    Staff Newsletter Team <newsletter@example.com>
+SUBJECT: Newsletter word of the week
+----------------------------------------
+Hi Mason,
+
+The newsletter's word of the week is "fishing," which seems like a perfectly good word for a quiet Sunday.
+
+There is no quiz or follow-up. Just sharing a small bit of newsletter trivia.
+
+Staff Newsletter Team
+
+============================================================
+MAILBOX: E-4.100confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Lucia,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.106confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Lachlan,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.107confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Stefan,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.111confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Julien,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.114confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Melani,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.116confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Emelia,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.120confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Dream,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.127confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Kayson,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.134confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Alonso,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.148confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Jakobe,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.157confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Halle,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.158confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Carmelo,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.163confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Teresa,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.177confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Aliana,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.183confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Update Recommended
+----------------------------------------
+Hi Uriel,
+
+Our account review shows that your employee password has not been updated sin=
+ce your account was created in July 2020.
+
+For security reasons, IT recommends updating your password before the end of =
+the month. Please choose a new password that is unique and not reused from an=
+y personal accounts or previous workplace logins.
+
+Thanks,
+Port IT Support
+
+============================================================
+MAILBOX: E-4.205confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Vincenzo,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.206confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Leo,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.209confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Dalton,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.210confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Omari,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.214confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Darius,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.219confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Alexia,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.224confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Stephen,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.229confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Valentin,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.235confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Axton,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.236confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Lucian,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.240confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Yamileth,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.241confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Harmony,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.244confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Brooke,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.245confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Otis,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.248confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Kailani,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.249confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Marlowe,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.254confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Nadia,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.256confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Dorothy,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.257confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Jaziel,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.261confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Oaklyn,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.270confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Emily,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.273confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Malachi,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.274confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Johan,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.277confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Kathryn,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.278confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Kadence,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.280confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Loretta,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.281confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Freyja,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.293confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Harrison,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.294confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Porter,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.295confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Shepherd,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.297confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Updated Cargo Manifest
+ATTACH:  container_manifest4.csv
+----------------------------------------
+Hello Inspector Team!
+
+Please find the attached manifest with the updated information of today's cargo.
+
+For security reasons, completely avoid sharing this information with anyone but your direct supervisor. This file contains CRUCIAL information about the operations of the port. We are sharing this information through this medium in our effort to digitize our systems.
+
+Regards,
+Port Admin
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Warning
+----------------------------------------
+Hi Arthur,
+
+During a routine password audit, your account was flagged for using a password that appears in common password lists.
+
+For security reasons, IT recommends changing your password to something longer and more unique. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Simple combinations of words and numbers are subject to cracking. Use a combination of symbols, characters, and digits, please.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.308confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Mordechai,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.314confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Zayden,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.322confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Gabriela,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.325confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Megan,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.331confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Marco,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.333confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Alexandra,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.335confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Milan,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.338confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Reginald,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.340confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Milena,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.345confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Cataleya,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.348confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Frank,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.350confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Mikayla,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.352confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Abdiel,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.356confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Luisa,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.357confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Mae,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.369confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Elliott,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.371confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Duncan,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.372confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Noah,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.374confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Logan,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.375confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Kyler,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.383confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi June,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.385confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Stefan,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.388confidential.mbox
+============================================================
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Sebastian,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+============================================================
+MAILBOX: E-4.396confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Stevie,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
+
+============================================================
+MAILBOX: E-4.397confidential.mbox
+============================================================
+
+FROM:    IT Support <it-support@example.com>
+SUBJECT: Password Security Warning
+----------------------------------------
+Hi Oakley,
+
+During a routine password audit, your account was flagged for using a password the same password for both workplace systems: web Portal and work computer.
+
+For security reasons, IT recommends changing your password of at least one of these systems. Avoid using simple words, seasonal phrases, company-related terms, or passwords that could appear in leaked password databases.
+
+Account: E-<built-in function id>
+System: Cargo Inspection Portal
+
+Thanks,
+Port IT Security
+
+FROM:    Port Authority Admin <port-admin@example.com>
+SUBJECT: Update about Yard Information
+ATTACH:  layout.png
+----------------------------------------
+Hello Everyone,
+
+As everyday, please find the yard layout for tomorrow. Small changes have been made to the distribution of the layoff area, because we anticipate a surplus of arriving containers tomorrow.
+
+Regards,
+Port Admin
