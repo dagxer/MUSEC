@@ -1,30 +1,11 @@
-#!/usr/bin/env python3
-"""
-Strip the noise out of the MUSEC mailboxes.
 
-Keeps only the emails that carry a clue; drops the ~1,200 filler emails
-(coffee invites, mugs, newsletters, community chatter).
-
-Run it inside the folder that holds the .mbox files:
-    python3 filter_emails.py
-Output: signal_only.txt  (human-readable, grouped by mailbox)
-
-The three clue types it keeps:
-  1. IT Support  -> "Crane System Password Review"  (masked password = length hint)
-  2. Newsletter  -> "Newsletter word of the week"    (plaintext string = the hint)
-  3. Port Admin  -> "Update about Yard Information"   (layout.png attachment)
-Edit KEEP_RULES below to widen or narrow what counts as a clue.
-"""
 import mailbox, glob, re
 
-# Each rule is (sender substring OR None, subject regex OR None).
-# A message is kept if it matches ANY rule.
 KEEP_RULES = [
-    ("it-support",  None),                         # all IT support mail
-    ("port-admin",  None),                         # all port admin mail
-    (None, re.compile(r"word of the week", re.I)),  # only this newsletter type
-    # --- widen the net here if you suspect more clues, e.g.: ---
-    # (None, re.compile(r"password|credential|login|account", re.I)),
+    ("it-support",  None),                       
+    ("port-admin",  None),                        
+    (None, re.compile(r"word of the week", re.I)),  
+  
 ]
 
 def body_of(msg):
