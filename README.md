@@ -64,3 +64,6 @@ Password: 123456
 - Name: Frank
 - From emails: password is same as for web portal
 - Saturday bbq plans found in BBQ from Rachel Morgan. Possibly affects security during hack?
+
+Update:
+We won second, with a $750 CAD prize
